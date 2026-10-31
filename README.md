@@ -1,1 +1,1 @@
-# jewelry_price_predection
+# jewelry_price_prediction
